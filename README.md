@@ -1,0 +1,2 @@
+# Data-Analysis-Lin--Multicollinearity-Outlier-Handling-Model-Creation-and-Prediction-with-72-Accuracy
+In this project, I checked for linearity and multicollinearity among the dependent variables. Then, removed the unwanted columns and null values. then  addressed outliers using distplot. After that, created a model and achieved 72% accuracy. then  split the data into training and testing sets. Finally, I used the model to predict x_pred and y_pred.
